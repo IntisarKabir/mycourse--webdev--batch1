@@ -16,7 +16,7 @@ https://eloquentjavascript.net/
 https://zellwk.com/blog/dom-traversals/
 https://youmightnotneedjquery.com/
 https://github.com/Asabeneh/30-Days-Of-JavaScript
-http://domenlightenment.com/#7.6
+http://domenlightenment.com/#1.1
 https://github.com/dinanathsj29/javascript-beginners-tutorial
 https://github.com/micromata/awesome-javascript-learning
 
