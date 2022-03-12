@@ -12,32 +12,19 @@ CONSIDER THESE AS THE TEXTBOOK FOR THE COURSE
 
 
 https://www.javatpoint.com/javascript-tutorial
-
 https://eloquentjavascript.net/
-
-
 https://zellwk.com/blog/dom-traversals/
-
-
-
 https://youmightnotneedjquery.com/
-
 https://github.com/Asabeneh/30-Days-Of-JavaScript
-
-
 http://domenlightenment.com/#7.6
-
-
 https://github.com/dinanathsj29/javascript-beginners-tutorial
-
-
 https://github.com/micromata/awesome-javascript-learning
 
 
 
 ======FROM YOUTUBE =========
 
-https://www.youtube.com/watch?v=fTXNlfmA7W8&t=44s
+https://www.youtube.com/watch?v=fTXNlfmA7W8
 
 
 
