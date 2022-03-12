@@ -9,6 +9,10 @@ CONSIDER THESE AS THE TEXTBOOK FOR THE COURSE
 
 
 
+
+
+https://www.javatpoint.com/javascript-tutorial
+
 https://eloquentjavascript.net/
 
 
